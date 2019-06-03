@@ -18,15 +18,24 @@ DUOC UC
 
 
 Programas utilizados:
+
 1.- composer
+
 2.- wampserver con php 7.3
+
 3.- mysql workbench 5.7
+
 4.- sublime text.
 
-lenguajes y frameworks
+lenguajes y frameworks:
+
 1.- PHP
+
 2.- JavaScript
 3.- Ajax
+
 4.- Medoo
+
 5.- Slim
+
 6.- Twig
